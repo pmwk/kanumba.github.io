@@ -22,3 +22,20 @@ body {}
 .itemList a {
 	color: #D56558;
 }
+
+
+.taskTitle {
+	text-align: center;
+	color: #424242;
+}
+
+.taskAnswer {
+	margin-left: 3.5%;
+	margin-right: 3.5%;
+	margin-bottom: 45px;
+	text-align: justify;
+}
+
+.taskToMenu {
+	padding-left: 85%;
+}
